@@ -9,7 +9,7 @@
 
 <img align="right" src="https://little.kylerconway.com/images/golang-what.gif" width="300">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-stranger&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-stranger" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XSTRANGER-7&label=Profile%20views&color=0e75b6&style=flat" alt="XSTRANGER-7" /> </p>
  
 
 - 📫 How to reach me **smartsarthakgupta12345@gmail.com**
@@ -28,8 +28,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak-stranger&show_icons=true&locale=en&layout=compact" alt="sarthak-stranger" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=XSTRANGER-7&show_icons=true&locale=en&layout=compact" alt="XSTRANGER-7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-stranger&show_icons=true&locale=en" alt="sarthak-stranger" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=XSTRANGER-7&show_icons=true&locale=en" alt="XSTRANGER-7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-stranger&" alt="sarthak-stranger" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XSTRANGER-7&" alt="XSTRANGER-7" /></p> 
